@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 I am a student at UC San Diego pursuing a B.S. in Computer Science. I have a strong passion for building software that is efficient, scalable, user-friendly, and most importantly, impactful.
 
@@ -8,7 +8,7 @@ I am proficient in languages such as Python, JavaScript, and Java, and I have a 
 
 Currently, I am seeking a Software Engineering Internship for Summer 2026 where I can contribute to solving real-world problems and learn from experienced mentors.
 
-# Technical Skills
+## Technical Skills
 
 - Languages: Python, JavaScript, HTML/CSS, Java, C# (Unity), C
 - Frameworks/Engines: React, Express, Unity
