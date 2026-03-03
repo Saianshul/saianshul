@@ -10,11 +10,11 @@ Currently, I am seeking a Software Engineering Internship for Summer 2026 where 
 
 ## Technical Skills
 
-- Languages: Python, JavaScript, HTML/CSS, Java, C# (Unity), C
-- Frameworks/Engines: React, Express, JUnit, Unity
-- Libraries: Selenium, Beautiful Soup, NumPy, Pandas, Matplotlib, Seaborn, Mongoose
+- Languages: Python, JavaScript, HTML/CSS, Java, C# (Unity), C, SQL
+- Frameworks/Engines: Express, React, JUnit, Unity
+- Libraries: Selenium, Beautiful Soup, NumPy, Pandas, Matplotlib, Mongoose
 - DevOps: CI/CD (GitHub Actions), Amazon S3, Amazon CloudFront
-- Developer Tools: Git, GitHub, RESTful APIs, MongoDB, GDB
+- Developer Tools: Git, GitHub, RESTful APIs, MongoDB, Linux
 
 <!--
 **Saianshul/saianshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
