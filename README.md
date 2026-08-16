@@ -10,23 +10,8 @@ Currently, I am seeking a Software Engineering Internship for Summer 2026 where 
 
 ## Technical Skills
 
-- Languages: Python, JavaScript, HTML/CSS, Java, C# (Unity), C, SQL
+- Languages: Python, JavaScript, HTML, Java, C, SQL
 - Frameworks/Engines: Express, React, JUnit, Unity
-- Libraries: Selenium, Beautiful Soup, NumPy, Pandas, Matplotlib, Mongoose
+- Libraries: PyTorch, NumPy, Pandas, Matplotlib, Selenium, Beautiful Soup, Mongoose
 - DevOps: CI/CD (GitHub Actions), Amazon S3, Amazon CloudFront
-- Developer Tools: Git, GitHub, RESTful APIs, MongoDB, Linux
-
-<!--
-**Saianshul/saianshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developer Tools: Git, GitHub, RESTful APIs, MongoDB, PostgreSQL, Linux, Codex
